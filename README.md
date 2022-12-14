@@ -1,1 +1,1 @@
-# gif_search_api
+API key not included.
